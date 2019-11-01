@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 御坂</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on 御坂</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>Zh-CN</language>
+    <lastBuildDate>Sat, 02 Nov 2019 01:29:04 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何创建hugo博客</title>
+      <link>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 02 Nov 2019 01:29:04 +0800</pubDate>
+      
+      <guid>http://example.org/posts/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAhugo%E5%8D%9A%E5%AE%A2/</guid>
+      <description> 如何新建hugo博客 一、安装初始化hugo  注意安装的版本和文件位置 echo blog/xxxx.github.io-creator 3. hugo new site /xxxx.github.io-creator 4. cd /xxxx.github.io-creator 5. git init 6. git submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke 7. echo &amp;lsquo;theme = &amp;ldquo;ananke&amp;rdquo;&amp;rsquo; &amp;gt;&amp;gt; config.toml 8.  </description>
+    </item>
+    
+  </channel>
+</rss>
