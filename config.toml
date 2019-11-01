@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "Zh-CN"
+title = "御坂"
+theme = "ananke"
